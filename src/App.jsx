@@ -14,7 +14,7 @@ import {
 // --- IDIOMAS ---
 const translations = {
   es: {
-    appTitle: "SuperYoHabito",
+    appTitle: "YoHabito",
     appDesc: "Tu centro de evolución personal. Completa tareas, gana Puntos de Evolución (PE) y mejora en el mundo real y digital.",
     skillMap: "NIVELES DE HABILIDAD",
     habitsList: "TAREAS DEL DÍA",
